@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096814883648",
+    "project_id": "notifications-7d3d8",
+    "storage_bucket": "notifications-7d3d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096814883648:android:ec978aabff19845e61c0a5",
+        "android_client_info": {
+          "package_name": "com.enzoxaero.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096814883648-6a6rpguklv0qftenp8iam55ai8nndpcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz6Wlsk9sOTy_45sP8x2AbdMPNpxYSH9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096814883648-6a6rpguklv0qftenp8iam55ai8nndpcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
